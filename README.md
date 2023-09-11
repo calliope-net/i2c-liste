@@ -2,13 +2,17 @@
 > Diese Seite bei [https://calliope-net.github.io/i2c-liste/](https://calliope-net.github.io/i2c-liste/) öffnen.
 
 Das Bild zeigt 15 i2c Module, die alle am Calliope funktionieren und mit Blöcken programmiert werden können.
-Für alle 15 Module können hier die Erweiterungen herunter geladen werden, die - genau wie die Module - beliebig miteinander kombiniert werden können. 
+Für alle 15 Module können hier die Erweiterungen für MakeCode herunter geladen werden, die - genau wie die Module - beliebig miteinander kombiniert werden können. 
+
+![](DSC09940-1440.jpg)
 
 Der linke Steckverbinder A0 am Calliope ist der i2c-Bus. An einen Bus können viele Module gleichzeitig angeschlossen werden.
+Die roten Qwiic Module haben zwei Buchsen und werden einfach in beliebiger Reihenfolge hintereinander gesteckt. 
+Grove-Kabel werden ebenfalls beliebig in den i2c-Hub gesteckt.
 
-Technisch alle gleichzeitig an den i2c Bus angeschlossen werden können. Mit einem Stecker an Calliope A0.
-Getestet wurde mit 7 Modulen gleichzeitig und es hat funktioniert. Für alle 15 Module können aber hier die Erweiterungen herunter geladen werden,
-die - genau wie die Module - beliebig miteinander kombiniert werden können. 
+Getestet wurde mit 7 Modulen gleichzeitig und es hat funktioniert.
+
+![](DSC09906-1440.jpg)
 
 Wenn die Stromversorgung des Calliope über USB Kabel erfolgt, reicht das für die angeschlossenen Module (außer den 4 Relais) aus.
 Die roten Qwiic Module dürfen auch nur mit 3,3V Logik betrieben werden. Im Dauerbetrieb über Tag und Nacht ist noch kein Projekt abgestürzt.
@@ -16,7 +20,6 @@ Die roten Qwiic Module dürfen auch nur mit 3,3V Logik betrieben werden. Im Daue
 Und es ist kein teures Hobby. Über die Bezugsquellen unten kosten viele Module nur um 5 € und das große Display 25 €.
 Verglichen mit den in der Schule üblichen Baukästen ist das sogar eine preiswerte Alternative.
 
-![](DSC09940-1440.jpg)
 
 ### Liste der i2c Module für Calliope (Produkt Seite der Hersteller):
 
