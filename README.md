@@ -112,11 +112,11 @@ Dazu in der **JavaScript** Ansicht links unter dem Simulator im schwarzen Explor
 
 #### Calliope-Apps, .hex-Dateien, Bildschirmfotos mit Blöcken
 
-* [Calliope-i2c-Test-App lädt alle Erweiterungen für i2c-Module von Grove und Qwiic.](https://calliope-net.github.io/i2c-test/)
-* [Calliope-App mit vier i2c Modulen gleichzeitig, DIP-Schalter, Speicherkarte, LCD-Display, Uhr.](https://calliope-net.github.io/i2c-uhr-speicherkarte-dipschalter-lcd/)
-* [Calliope-App Quarz-Uhr anzeigen, stellen mit Knopf A/B, Korrektur-Register, Binär-Uhr.](https://calliope-net.github.io/i2c-uhr-stellen/)
-* [Calliope-App Dateien der Speicherkarte anzeigen, lesen, schreiben, löschen, mit Knopf A/B.](https://calliope-net.github.io/i2c-speicherkarte-verwalten/)
-* [Calliope-App mit Keypad und IO-Modul eine 7-Segment-Anzeige steuern, Hardware-Interrupt.](https://calliope-net.github.io/i2c-keypad-gpio-7segment/)
+* [Calliope-App mit 7 i2c-Modulen: Uhr, LCD 20x4, Speicherkarte, Keypad, 8-IO, DIP-Schalter, 4-Relais.](https://calliope-net.github.io/i2c-test/)
+* [Calliope-App mit 4 i2c-Modulen: Mit DIP-Schalter Funktionen umschalten. Dauerhaft auf Speicherkarte protokollieren. LCD Anzeige, Uhr.](https://calliope-net.github.io/i2c-uhr-speicherkarte-dipschalter-lcd/)
+* [Calliope-App mit 2 i2c-Modulen: LCD 16x2, Quarz-Uhr anzeigen, stellen mit Knopf A/B, Korrektur-Register, Binär-Uhr. Hardware-Interrupt.](https://calliope-net.github.io/i2c-uhr-stellen/)
+* [Calliope-App mit 2 i2c-Modulen: LCD 16x2 und 'SparkFun Qwiic OpenLog'. Dateien der Speicherkarte mit Knopf A/B anzeigen, lesen, schreiben, löschen.](https://calliope-net.github.io/i2c-speicherkarte-verwalten/)
+* [Calliope-App mit 2 i2c-Modulen und 7-Segment Anzeige: Keypad und 'SparkFun Qwiic GPIO'. 7-Segment-Anzeige am 'general-purpose input/output'. Hardware-Interrupt.](https://calliope-net.github.io/i2c-keypad-gpio-7segment/)
 
 > GitHub-Profil calliope-net: [https://github.com/calliope-net](https://github.com/calliope-net)
 
