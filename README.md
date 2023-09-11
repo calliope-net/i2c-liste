@@ -1,21 +1,26 @@
 
 > Diese Seite bei [https://calliope-net.github.io/i2c-liste/](https://calliope-net.github.io/i2c-liste/) öffnen.
 
-Das Bild zeigt 15 i2c Module, die technisch alle gleichzeitig an den i2c Bus angeschlossen werden können. Mit einem Stecker an Calliope A0.
+Das Bild zeigt 15 i2c Module, die alle am Calliope funktionieren und mit Blöcken programmiert werden können.
+Für alle 15 Module können hier die Erweiterungen herunter geladen werden, die - genau wie die Module - beliebig miteinander kombiniert werden können. 
+
+Der linke Steckverbinder A0 am Calliope ist der i2c-Bus. An einen Bus können viele Module gleichzeitig angeschlossen werden.
+
+Technisch alle gleichzeitig an den i2c Bus angeschlossen werden können. Mit einem Stecker an Calliope A0.
 Getestet wurde mit 7 Modulen gleichzeitig und es hat funktioniert. Für alle 15 Module können aber hier die Erweiterungen herunter geladen werden,
-die - genau wie die Module - beliebig miteinander kombiniert werden können. Und es ist kein teures Hobby. Über die Bezugsquellen unten 
-kosten viele Module nur um 5 € und das große Display 25 €.
+die - genau wie die Module - beliebig miteinander kombiniert werden können. 
 
 Wenn die Stromversorgung des Calliope über USB Kabel erfolgt, reicht das für die angeschlossenen Module (außer den 4 Relais) aus.
 Die roten Qwiic Module dürfen auch nur mit 3,3V Logik betrieben werden. Im Dauerbetrieb über Tag und Nacht ist noch kein Projekt abgestürzt.
 
+Und es ist kein teures Hobby. Über die Bezugsquellen unten kosten viele Module nur um 5 € und das große Display 25 €.
+Verglichen mit den in der Schule üblichen Baukästen ist das sogar eine preiswerte Alternative.
+
 ![](DSC09940-1440.jpg)
 
-### Liste der i2c Module für Calliope:
+### Liste der i2c Module für Calliope (Produkt Seite der Hersteller):
 
-* [Grove - High Precision RTC (Real Time Clock)](https://wiki.seeedstudio.com/Grove_High_Precision_RTC/)
-* [Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) / [Grove - OLED Display 0.96 inch](https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/)
-* [Grove - 16x2 LCD](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/)
+##### SparkFun - [Qwiic](https://www.sparkfun.com/categories/399) - Making I2C as easy as possible.
 * [SparkFun 20x4 SerLCD - RGB Backlight (Qwiic)](https://www.sparkfun.com/products/16398)
 * [SparkFun Qwiic EEPROM Breakout - 512Kbit](https://www.sparkfun.com/products/18355)
 * [SparkFun Qwiic OpenLog](https://www.sparkfun.com/products/15164)
@@ -23,11 +28,19 @@ Die roten Qwiic Module dürfen auch nur mit 3,3V Logik betrieben werden. Im Daue
 * [SparkFun Qwiic GPIO](https://www.sparkfun.com/products/17047)
 * [SparkFun Qwiic Joystick](https://www.sparkfun.com/products/15168)
 * [SparkFun Qwiic Motor Driver](https://www.sparkfun.com/products/15451)
+
+##### seeed studio - [Grove](https://wiki.seeedstudio.com/Grove_System/)
+
+* [Grove - High Precision RTC (Real Time Clock)](https://wiki.seeedstudio.com/Grove_High_Precision_RTC/)
+* [Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) / [Grove - OLED Display 0.96 inch](https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/)
+* [Grove - 16x2 LCD](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/)
 * [Grove - 6-Position DIP Switch](https://wiki.seeedstudio.com/Grove-6-Position_DIP_Switch/) / [Grove - 5-Way Switch](https://wiki.seeedstudio.com/Grove-5-Way_Switch/)
 * [Grove - 4-Channel SPDT Relay](https://wiki.seeedstudio.com/Grove-4-Channel_SPDT_Relay/)
+
+##### DFRobot - [Gravity](https://www.dfrobot.com/gravity.html)
 * [Gravity: I2C Digital Wattmeter](https://www.dfrobot.com/product-1827.html)
 
-Kabel und Adapter
+##### Kabel und Adapter
 
 * [Grove - I2C Hub(6 Port)](https://wiki.seeedstudio.com/Grove-I2C-Hub-6Port/)
 * [Qwiic Cable - Grove Adapter](https://www.sparkfun.com/products/15109)
