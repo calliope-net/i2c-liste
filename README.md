@@ -2,7 +2,8 @@
 > Diese Seite bei [https://calliope-net.github.io/i2c-liste/](https://calliope-net.github.io/i2c-liste/) öffnen.
 
 Das Bild zeigt 15 i2c Module, die alle am Calliope funktionieren und mit Blöcken programmiert werden können.
-Für alle 15 Module können hier die Erweiterungen für [MakeCode](https://makecode.calliope.cc/) herunter geladen werden, die - genau wie die Module - beliebig miteinander kombiniert werden können. 
+Für alle 15 Module können hier die Erweiterungen für [MakeCode](https://makecode.calliope.cc/) herunter geladen werden, 
+die - genau wie die Module - beliebig miteinander kombiniert werden können. 
 
 ![](DSC09940-1440.jpg)
 
@@ -17,11 +18,10 @@ Getestet wurde mit 7 Modulen gleichzeitig und es hat funktioniert. Link zum Beis
 Wenn die Stromversorgung des Calliope über USB Kabel erfolgt, reicht das für die angeschlossenen Module (außer den 4 Relais) aus.
 Die roten Qwiic Module dürfen auch nur mit 3,3V Logik betrieben werden. Im Dauerbetrieb über Tag und Nacht ist noch kein Projekt abgestürzt.
 
-Und es ist kein teures Hobby. Über die Bezugsquellen unten kosten viele Module nur um 5 € und das große Display 25 €.
-Verglichen mit den in der Schule üblichen Baukästen ist das sogar eine preiswerte Alternative.
+Und es ist kein teures Hobby. Über die [Bezugsquellen](#bezugsquellen) unten kosten viele Module nur um 5 € und das große Display 25 €.
+Verglichen mit den in der Schule üblichen Baukästen kann das eine preiswerte Alternative sein.
 
-
-### Liste der i2c Module für Calliope (Produkt Seite der Hersteller):
+### Liste der i2c Module für Calliope (Produkt Dokumentation der Hersteller):
 
 ##### SparkFun - [Qwiic](https://www.sparkfun.com/categories/399) - Making I2C as easy as possible.
 * [SparkFun 20x4 SerLCD - RGB Backlight (Qwiic)](https://www.sparkfun.com/products/16398)
@@ -49,20 +49,19 @@ Verglichen mit den in der Schule üblichen Baukästen ist das sogar eine preiswe
 * [Qwiic Cable - Grove Adapter](https://www.sparkfun.com/products/15109)
 * [Qwiic Cable Kit](https://www.sparkfun.com/products/15081)
 
-Alle i2c Module werden parallel am linken Grove Steckverbinder A0 angeschlossen. 
-Dazu kann ein [i2c-Hub](https://wiki.seeedstudio.com/Grove-I2C-Hub-6Port/) benutzt werden.
-i2c Module mit zwei Buchsen (z.B. Qwiic) können hintereinander gesteckt werden.
+### Dieses Projekt von GitHub importieren, bearbeiten, mit Calliope testen.
 
-Für die Stromversorgung sollte Calliope über USB Kabel (an Computer oder Powerbank) angeschlossen sein.
+Dieses Projekt [**calliope-net/i2c-liste**](https://github.com/calliope-net/i2c-liste) lädt alle i2c-Erweiterungen.
+Die Seite mit den Blöcken ist leer und lädt sofort dazu ein, die neuen Blöcke aus den Erweiterungen zusammen zu stecken und zu testen.
 
-#### Dieses Projekt von GitHub importieren, bearbeiten, mit Calliope testen.
+![](blocks.png)
 
 Um dieses Repository in MakeCode zu importieren.
 
 * öffne [https://makecode.calliope.cc](https://makecode.calliope.cc/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * kopiere die folgende **URL des Projekts** in die Zwischenablage (Strg-C)
-* **calliope-net/i2c-test**
+* **calliope-net/i2c-liste**
 * füge sie auf der MakeCode Webseite ein (Strg-V) und klicke auf **Los geht's!**
 
 
@@ -93,7 +92,6 @@ Jede Erweiterung kann von GitHub über **calliope-net/name** allein geladen werd
 * [https://github.com/calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/)
 * [https://github.com/calliope-net/wattmeter](https://calliope-net.github.io/wattmeter/)
 
-![](blocks.png)
 
 ### Updates
 
