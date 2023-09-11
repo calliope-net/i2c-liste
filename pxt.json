@@ -1,5 +1,6 @@
 {
     "name": "i2c-liste",
+    "version": "1.0.0",
     "dependencies": {
         "core": "*",
         "bit": "github:calliope-net/bit#v1.0.3",
