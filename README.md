@@ -21,7 +21,7 @@ Die roten Qwiic Module dürfen auch nur mit 3,3V Logik betrieben werden. Im Daue
 Und es ist kein teures Hobby. Über die [Bezugsquellen](#bezugsquellen) unten kosten viele Module nur um 5 € und das große Display 25 €.
 Verglichen mit den in der Schule üblichen Baukästen kann das eine preiswerte Alternative sein.
 
-### Liste der i2c Module für Calliope (Produkt Dokumentation der Hersteller):
+### Liste der i2c Module für Calliope (Produkt Dokumentation):
 
 ##### SparkFun - [Qwiic](https://www.sparkfun.com/categories/399) - Making I2C as easy as possible.
 * [SparkFun 20x4 SerLCD - RGB Backlight (Qwiic)](https://www.sparkfun.com/products/16398)
@@ -55,7 +55,7 @@ Dieses Projekt [**calliope-net/i2c-liste**](https://github.com/calliope-net/i2c-
 Die Seite mit den Blöcken ist leer und lädt sofort dazu ein, die neuen Blöcke aus den Erweiterungen zusammen zu stecken und zu testen.
 [Das funktioniert mit einem Klick ](https://makecode.calliope.cc/_CwHYcw3543C3), mit dem QR-Code oder...
 
-![](qr-i2c-liste.gif)
+![](qr-i2c-liste.gif) (Auf *Bearbeiten* klicken, um die Erweiterungen zu sehen.)
 
 ![](blocks.png)
 
@@ -67,13 +67,11 @@ Um dieses Repository in MakeCode zu importieren.
 * **calliope-net/i2c-liste**
 * füge sie auf der MakeCode Webseite ein (Strg-V) und klicke auf **Los geht's!**
 
-
 ### Erweiterungen
 
-Die Erweiterungen **bit** und **i2c** (die mit 3 Buchstaben) enthalten nur zusätzliche Blöcke zur Formatierung von Text und Zahlen, 
-Logik und zur Programmierung beliebiger i2c Module ohne JavaScript.
-Diese Erweiterungen werden von den folgenden Erweiterungen für i2c Hardware-Module **nicht** benötigt. Ausnahmen sind in der Liste angegeben.
-Jede Erweiterung kann von GitHub über **calliope-net/name** allein geladen werden.
+Die Erweiterungen **bit** und **i2c** (die mit 3 Buchstaben) enthalten zusätzliche Blöcke zur Formatierung von Text und Zahlen (HEX), 
+Logik (bitweise) und zur Programmierung beliebiger i2c Module ohne JavaScript. Die Verwendung von *Buffer* mit Blöcken wird ermöglicht.
+Die Erweiterungen **bit** und **i2c** können ohne i2c-Modul auch im Simulator benutzt und auf Calliope geladen werden.
 
 * [https://github.com/calliope-net/bit](https://calliope-net.github.io/bit/)
 * [https://github.com/calliope-net/i2c](https://calliope-net.github.io/i2c/)
