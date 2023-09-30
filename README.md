@@ -28,7 +28,7 @@ Verglichen mit den in der Schule üblichen Baukästen kann das eine preiswerte A
 Produkt Dokumentation|Funktion
 ---|---
 [SparkFun 20x4 SerLCD - RGB Backlight (Qwiic)](https://www.sparkfun.com/products/16398) | LCD-Display 20 Zeichen x 4 Zeilen
-[SparkFun Qwiic EEPROM Breakout - 512Kbit](https://www.sparkfun.com/products/18355) | EEPROM 64 KByte
+[SparkFun Qwiic EEPROM Breakout - 512Kbit](https://www.sparkfun.com/products/18355) | EEPROM 64 KByte (65536 * 8 Bit)
 [SparkFun Qwiic OpenLog](https://www.sparkfun.com/products/15164) | Speicherkarte lesen/schreiben
 [SparkFun Qwiic Keypad - 12 Button](https://www.sparkfun.com/products/15290) | Keypad Tasten: 0123456789*#
 [SparkFun Qwiic GPIO](https://www.sparkfun.com/products/17047) | 8 digitale Ein- oder Ausgänge (Input/Output)
@@ -37,14 +37,21 @@ Produkt Dokumentation|Funktion
 
 ##### seeed studio - [Grove](https://wiki.seeedstudio.com/Grove_System/)
 
-* [Grove - High Precision RTC (Real Time Clock)](https://wiki.seeedstudio.com/Grove_High_Precision_RTC/)
-* [Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) / [Grove - OLED Display 0.96 inch](https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/)
-* [Grove - 16x2 LCD](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/)
-* [Grove - 6-Position DIP Switch](https://wiki.seeedstudio.com/Grove-6-Position_DIP_Switch/) / [Grove - 5-Way Switch](https://wiki.seeedstudio.com/Grove-5-Way_Switch/)
-* [Grove - 4-Channel SPDT Relay](https://wiki.seeedstudio.com/Grove-4-Channel_SPDT_Relay/)
+Produkt Dokumentation|Funktion
+---|---
+[Grove - High Precision RTC (Real Time Clock)](https://wiki.seeedstudio.com/Grove_High_Precision_RTC/) | Quarz-Uhr mit Knopfzelle
+[Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) | OLED-Display 16 Zeichen x 8 Zeilen
+[Grove - OLED Display 0.96 inch](https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/) | OLED-Display 16 Zeichen x 8 Zeilen
+[Grove - 16x2 LCD](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/) | LCD-Display 16 Zeichen x 2 Zeilen
+[Grove - 6-Position DIP Switch](https://wiki.seeedstudio.com/Grove-6-Position_DIP_Switch/) | 6 DIP-Schalter
+[Grove - 5-Way Switch](https://wiki.seeedstudio.com/Grove-5-Way_Switch/) | Taster mit 4 Richtungen + drücken
+[Grove - 4-Channel SPDT Relay](https://wiki.seeedstudio.com/Grove-4-Channel_SPDT_Relay/) | 4 Relais (1-polige Umschalter)
 
 ##### DFRobot - [Gravity](https://www.dfrobot.com/gravity.html)
-* [Gravity: I2C Digital Wattmeter](https://www.dfrobot.com/product-1827.html)
+
+Produkt Dokumentation|Funktion
+---|---
+[Gravity: I2C Digital Wattmeter](https://www.dfrobot.com/product-1827.html) | Spannung und Strom digital messen
 
 ##### Kabel und Adapter
 
