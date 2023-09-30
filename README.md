@@ -24,13 +24,16 @@ Verglichen mit den in der Schule üblichen Baukästen kann das eine preiswerte A
 ### Liste der i2c Module für Calliope (Produkt Dokumentation):
 
 ##### SparkFun - [Qwiic](https://www.sparkfun.com/categories/399) - Making I2C as easy as possible.
-* [SparkFun 20x4 SerLCD - RGB Backlight (Qwiic)](https://www.sparkfun.com/products/16398)
-* [SparkFun Qwiic EEPROM Breakout - 512Kbit](https://www.sparkfun.com/products/18355)
-* [SparkFun Qwiic OpenLog](https://www.sparkfun.com/products/15164)
-* [SparkFun Qwiic Keypad - 12 Button](https://www.sparkfun.com/products/15290)
-* [SparkFun Qwiic GPIO](https://www.sparkfun.com/products/17047)
-* [SparkFun Qwiic Joystick](https://www.sparkfun.com/products/15168)
-* [SparkFun Qwiic Motor Driver](https://www.sparkfun.com/products/15451)
+
+Produkt Dokumentation|Funktion
+---|---
+[SparkFun 20x4 SerLCD - RGB Backlight (Qwiic)](https://www.sparkfun.com/products/16398) | LCD-Display 20 Zeichen x 4 Zeilen
+[SparkFun Qwiic EEPROM Breakout - 512Kbit](https://www.sparkfun.com/products/18355) | EEPROM 64 KByte
+[SparkFun Qwiic OpenLog](https://www.sparkfun.com/products/15164) | Speicherkarte lesen/schreiben
+[SparkFun Qwiic Keypad - 12 Button](https://www.sparkfun.com/products/15290) | Keypad Tasten: 0123456789*#
+[SparkFun Qwiic GPIO](https://www.sparkfun.com/products/17047) | 8 digitale Ein- oder Ausgänge (Input/Output)
+[SparkFun Qwiic Joystick](https://www.sparkfun.com/products/15168) | Joystick (Spielhebel)
+[SparkFun Qwiic Motor Driver](https://www.sparkfun.com/products/15451) | Steuerung für 2 Motoren
 
 ##### seeed studio - [Grove](https://wiki.seeedstudio.com/Grove_System/)
 
