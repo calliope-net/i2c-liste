@@ -84,20 +84,22 @@ Um dieses Repository in MakeCode zu importieren.
 
 ### Erweiterungen
 
-Die Erweiterungen **bit** und **i2c** (die mit 3 Buchstaben) enthalten zusätzliche Blöcke zur Formatierung von Text und Zahlen (HEX), 
-Logik (bitweise) und zur Programmierung beliebiger i2c Module ohne JavaScript. Die Verwendung von *Buffer* mit Blöcken wird ermöglicht.
-Die Erweiterungen **bit** und **i2c** können ohne i2c-Modul auch im Simulator benutzt und auf Calliope geladen werden.
+Die Erweiterungen **bit** und **i2c** enthalten zusätzliche Blöcke und können ohne i2c-Modul auch im Simulator benutzt und auf Calliope geladen werden.
 
-* [https://github.com/calliope-net/bit](https://calliope-net.github.io/bit/)
-* [https://github.com/calliope-net/i2c](https://calliope-net.github.io/i2c/)
+Erweiterung für MakeCode|zusätzliche Blöcke
+---|---
+[calliope-net/bit](https://calliope-net.github.io/bit/) | Blöcke zur Formatierung von Text und Zahlen (HEX), Logik (bitweise)
+[calliope-net/i2c](https://calliope-net.github.io/i2c/) | Verwendung von *Buffer* mit Blöcken, i2cWriteBuffer, i2cReadBuffer
 
 #### Erweiterungen für i2c Hardware-Module
 
-* [https://github.com/calliope-net/rtc-pcf85063tp](https://calliope-net.github.io/rtc-pcf85063tp/)
-* [https://github.com/calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/)
-* [https://github.com/calliope-net/oled-eeprom](https://calliope-net.github.io/oled-eeprom/) + [calliope-net/bit](https://calliope-net.github.io/bit/)
-* [https://github.com/calliope-net/lcd-16x2rgb](https://calliope-net.github.io/lcd-16x2rgb/)
-* [https://github.com/calliope-net/lcd-20x4](https://calliope-net.github.io/lcd-20x4/)
+Erweiterung für MakeCode|Modul am i2c-Bus (links A0)
+---|---
+[calliope-net/rtc-pcf85063tp](https://calliope-net.github.io/rtc-pcf85063tp/) | Quarz-Uhr mit Knopfzelle
+[calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/) | OLED-Display 16 Zeichen x 8 Zeilen
+[calliope-net/oled-eeprom](https://calliope-net.github.io/oled-eeprom/) + [calliope-net/bit](https://calliope-net.github.io/bit/) | EEPROM (Zeichensatz für OLED-Display programmieren)
+[calliope-net/lcd-16x2rgb](https://calliope-net.github.io/lcd-16x2rgb/) | LCD-Display 16 Zeichen x 2 Zeilen
+[calliope-net/lcd-20x4](https://calliope-net.github.io/lcd-20x4/) | LCD-Display 20 Zeichen x 4 Zeilen
 * [https://github.com/calliope-net/eeprom](https://calliope-net.github.io/eeprom/)
 * [https://github.com/calliope-net/log-qwiicopenlog](https://calliope-net.github.io/log-qwiicopenlog/)
 * [https://github.com/calliope-net/key-qwiickeypad](https://calliope-net.github.io/key-qwiickeypad/)
