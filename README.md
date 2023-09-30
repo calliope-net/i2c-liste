@@ -107,7 +107,7 @@ Erweiterung für MakeCode|Modul(e) am i2c-Bus (links A0)
 [calliope-net/joystick](https://calliope-net.github.io/joystick/) | Joystick (Spielhebel)
 [calliope-net/motor](https://calliope-net.github.io/motor/) | Steuerung für 2 Motoren
 [calliope-net/dip-switch](https://calliope-net.github.io/dip-switch/) | 6 DIP-Schalter oder '5-Way_Switch'
-[calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/) | 4 Relais (1-polige Umschalter)
+[calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/) | 4 Relais (1-polige Umschalter) + zusätzliche Spannung 5V
 [calliope-net/wattmeter](https://calliope-net.github.io/wattmeter/) | Spannung und Strom digital messen
 
 
