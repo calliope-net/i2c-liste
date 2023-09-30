@@ -143,10 +143,11 @@ Dazu in der **JavaScript** Ansicht links unter dem Simulator im schwarzen Explor
 
 ### Bezugsquellen
 
-##### seeed studio - [Grove](https://wiki.seeedstudio.com/Grove_System/), DFRobot - [Gravity](https://www.dfrobot.com/gravity.html)
+##### seeed studio - [Grove](https://wiki.seeedstudio.com/Grove_System/)
 
 * [Grove - High Precision RTC](https://www.mouser.de/ProductDetail/713-102020083)
 * [Grove - OLED Yellow&Blue Display 0.96 (SSD1315) - SPI/IIC -3.3V/5V](https://www.mouser.de/ProductDetail/713-104020249)
+  * [Grove - OLED Display 0.96 inch](https://www.mouser.de/ProductDetail/713-104030008)
 * [Grove - 16 x 2 LCD (White on Blue)](https://www.mouser.de/ProductDetail/713-104020111)
   * [Grove - 16 x 2 LCD (Black on Red)](https://www.mouser.de/ProductDetail/713-104020112)
   * [Grove - 16 x 2 LCD (Black on Yellow)](https://www.mouser.de/ProductDetail/713-104020113)
@@ -154,6 +155,9 @@ Dazu in der **JavaScript** Ansicht links unter dem Simulator im schwarzen Explor
 * [Grove - 6-Position DIP Switch](https://www.mouser.de/ProductDetail/713-111020043) zum Produkt-Bild vergrößern klicken
   * [Grove - 5-Way Switch](https://www.mouser.de/ProductDetail/713-111020048)
 * [Grove - 4-Channel SPDT Relay](https://www.mouser.de/ProductDetail/713-103020133)
+
+##### DFRobot - [Gravity](https://www.dfrobot.com/gravity.html)
+
 * [Gravity: I2C Digital Wattmeter](https://www.digikey.de/de/products/detail/dfrobot/SEN0291/10279750)
 
 ##### SparkFun - [Qwiic](https://www.sparkfun.com/categories/399) - Making I2C as easy as possible.
