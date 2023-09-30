@@ -95,7 +95,7 @@ Erweiterung für MakeCode|zusätzliche Blöcke
 
 Erweiterung für MakeCode|Blöcke zur Programmierung der Module am i2c-Bus (links A0)
 ---|---
-[calliope-net/rtc-pcf85063tp](https://calliope-net.github.io/rtc-pcf85063tp/) | Quarz-Uhr mit Knopfzelle
+[calliope-net/rtc-uhr](https://calliope-net.github.io/rtc-uhr/) | Quarz-Uhr mit Knopfzelle
 [calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/) | EEPROM + OLED-Display 16 Zeichen x 8 Zeilen (1 oder 2 Displays)
 [calliope-net/oled-eeprom](https://calliope-net.github.io/oled-eeprom/) + [calliope-net/bit](https://calliope-net.github.io/bit/) | EEPROM (Zeichensatz für OLED-Display programmieren)
 [calliope-net/lcd-16x2rgb](https://calliope-net.github.io/lcd-16x2rgb/) | LCD-Display 16 Zeichen x 2 Zeilen
