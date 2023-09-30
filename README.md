@@ -96,19 +96,19 @@ Erweiterung für MakeCode|zusätzliche Blöcke
 Erweiterung für MakeCode|Modul am i2c-Bus (links A0)
 ---|---
 [calliope-net/rtc-pcf85063tp](https://calliope-net.github.io/rtc-pcf85063tp/) | Quarz-Uhr mit Knopfzelle
-[calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/) | OLED-Display 16 Zeichen x 8 Zeilen
+[calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/) | EEPROM + OLED-Display 16 Zeichen x 8 Zeilen (1 oder 2 Displays)
 [calliope-net/oled-eeprom](https://calliope-net.github.io/oled-eeprom/) + [calliope-net/bit](https://calliope-net.github.io/bit/) | EEPROM (Zeichensatz für OLED-Display programmieren)
 [calliope-net/lcd-16x2rgb](https://calliope-net.github.io/lcd-16x2rgb/) | LCD-Display 16 Zeichen x 2 Zeilen
 [calliope-net/lcd-20x4](https://calliope-net.github.io/lcd-20x4/) | LCD-Display 20 Zeichen x 4 Zeilen
-* [https://github.com/calliope-net/eeprom](https://calliope-net.github.io/eeprom/)
-* [https://github.com/calliope-net/log-qwiicopenlog](https://calliope-net.github.io/log-qwiicopenlog/)
-* [https://github.com/calliope-net/key-qwiickeypad](https://calliope-net.github.io/key-qwiickeypad/)
-* [https://github.com/calliope-net/8io-qwiicgpio](https://calliope-net.github.io/8io-qwiicgpio/)
-* [https://github.com/calliope-net/joystick](https://calliope-net.github.io/joystick/)
-* [https://github.com/calliope-net/motor](https://calliope-net.github.io/motor/)
-* [https://github.com/calliope-net/dip-switch](https://calliope-net.github.io/dip-switch/)
-* [https://github.com/calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/)
-* [https://github.com/calliope-net/wattmeter](https://calliope-net.github.io/wattmeter/)
+[calliope-net/eeprom](https://calliope-net.github.io/eeprom/)
+[calliope-net/log-qwiicopenlog](https://calliope-net.github.io/log-qwiicopenlog/)
+[calliope-net/key-qwiickeypad](https://calliope-net.github.io/key-qwiickeypad/)
+[calliope-net/8io-qwiicgpio](https://calliope-net.github.io/8io-qwiicgpio/)
+[calliope-net/joystick](https://calliope-net.github.io/joystick/)
+[calliope-net/motor](https://calliope-net.github.io/motor/)
+[calliope-net/dip-switch](https://calliope-net.github.io/dip-switch/)
+[calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/)
+[calliope-net/wattmeter](https://calliope-net.github.io/wattmeter/)
 
 
 ### Updates
