@@ -21,7 +21,7 @@ Die roten Qwiic Module dürfen auch nur mit 3,3V Logik betrieben werden. Im Daue
 Und es ist kein teures Hobby. Über die [Bezugsquellen](#bezugsquellen) unten kosten viele Module nur um 5 € und das große Display 25 €.
 Verglichen mit den in der Schule üblichen Baukästen kann das eine preiswerte Alternative sein.
 
-### Liste der i2c Module für Calliope (Produkt Dokumentation):
+### Liste der i2c Module für Calliope:
 
 ##### SparkFun - [Qwiic](https://www.sparkfun.com/categories/399) - Making I2C as easy as possible.
 
