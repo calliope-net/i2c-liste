@@ -55,10 +55,12 @@ Produkt Dokumentation|Funktion
 
 ##### Kabel und Adapter
 
+> Bei Qwiic Modulen ist kein Kabel dabei.
+
 Produkt Dokumentation|Funktion
 ---|---
-[Grove - I2C Hub(6 Port)](https://wiki.seeedstudio.com/Grove-I2C-Hub-6Port/) | i2c Hub
-[Grove - I2C Hub(4 Port)](https://wiki.seeedstudio.com/Grove-I2C_Hub/) | i2c Hub
+[Grove - I2C Hub(6 Port)](https://wiki.seeedstudio.com/Grove-I2C-Hub-6Port/) | i2c Hub mit 6 Grove Buchsen
+[Grove - I2C Hub(4 Port)](https://wiki.seeedstudio.com/Grove-I2C_Hub/) | i2c Hub mit 4 Grove Buchsen
 [Qwiic Cable - Grove Adapter](https://www.sparkfun.com/products/15109) | Grove-Stecker und Qwiic-Stecker 10 cm
 [Qwiic Cable Kit](https://www.sparkfun.com/products/15081) | verschiedene Qwiic Kabel (ohne Grove-Stecker)
 
