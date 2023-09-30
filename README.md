@@ -71,7 +71,7 @@ Produkt Dokumentation|Funktion
 
 Dieses Projekt [**calliope-net/i2c-liste**](https://github.com/calliope-net/i2c-liste) lädt alle i2c-Erweiterungen.
 Die Seite mit den Blöcken ist leer und lädt sofort dazu ein, die neuen Blöcke aus den Erweiterungen zusammen zu stecken und zu testen.
-[Das funktioniert mit einem Klick ](https://makecode.calliope.cc/_Fz3bep3og2su)
+[Das funktioniert mit einem Klick ](https://makecode.calliope.cc/_Hr2bxPVoYFkf)
 <!--[Das funktioniert mit einem Klick ](https://makecode.calliope.cc/_CwHYcw3543C3)-->
 , mit dem QR-Code oder...
 
