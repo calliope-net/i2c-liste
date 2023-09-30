@@ -6,7 +6,7 @@
         "bit": "github:calliope-net/bit#v1.0.6",
         "i2c": "github:calliope-net/i2c#v1.1.1",
         "rtc-uhr": "github:calliope-net/rtc-uhr#v1.1.1",
-        "oled-16x8": "github:calliope-net/oled-16x8#v1.0.0",
+        "oled-16x8": "github:calliope-net/oled-16x8#v1.0.1",
         "oled-eeprom": "github:calliope-net/oled-eeprom#v1.0.3",
         "lcd-16x2": "github:calliope-net/lcd-16x2#v1.1.0",
         "lcd-20x4": "github:calliope-net/lcd-20x4#v1.0.2",
