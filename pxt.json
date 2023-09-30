@@ -5,7 +5,7 @@
         "core": "*",
         "bit": "github:calliope-net/bit#v1.0.6",
         "i2c": "github:calliope-net/i2c#v1.1.1",
-        "rtc-pcf85063tp": "github:calliope-net/rtc-pcf85063tp#v1.0.2",
+        "rtc-uhr": "github:calliope-net/rtc-uhr",
         "oled-16x8": "github:calliope-net/oled-16x8#v1.0.0",
         "oled-eeprom": "github:calliope-net/oled-eeprom#v1.0.3",
         "lcd-16x2rgb": "github:calliope-net/lcd-16x2rgb#v1.0.2",
