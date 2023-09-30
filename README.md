@@ -3,13 +3,16 @@
 
 Das Bild zeigt 15 i2c Module, die alle am Calliope funktionieren und mit Blöcken programmiert werden können.
 Für alle 15 Module können hier die Erweiterungen für [MakeCode](https://makecode.calliope.cc/) herunter geladen werden, 
-die - genau wie die Module - beliebig miteinander kombiniert werden können. 
+die - genau wie die Module - beliebig miteinander kombiniert werden können.
 
 ![](DSC09940-1440.jpg)
 
 Der linke Steckverbinder A0 am Calliope ist der i2c-Bus. An einen Bus können viele Module gleichzeitig angeschlossen werden.
 Die roten Qwiic Module haben zwei Buchsen und werden einfach in beliebiger Reihenfolge hintereinander gesteckt. 
 Grove-Kabel werden ebenfalls beliebig in den i2c-Hub gesteckt. Vom i2c-Hub geht nur ein Kabel zum Calliope - ohne löten - einfach anstecken.
+
+Für das Foto wurden alle Module auf eine Grundplatte gesteckt und sichtbar mit Kabeln und Adaptern verbunden.
+Wenn am 3,3 Volt i2c-Bus der Strom reichen würde, könnten alle Module gleichzeitig betrieben werden. Das wurde hier aber nicht getestet.
 
 Getestet wurde mit 7 Modulen gleichzeitig und es hat funktioniert. Link zum Beispiel Projekt: [Calliope-i2c-App mit 7 Modulen](https://calliope-net.github.io/i2c-test/).
 
