@@ -98,7 +98,7 @@ Erweiterung für MakeCode|zusätzliche Blöcke
 
 #### Erweiterungen für i2c Hardware-Module
 
-Erweiterung für MakeCode|Blöcke zur Programmierung der Module
+Erweiterung für MakeCode|Blöcke zur Programmierung der i2c Module
 ---|---
 [calliope-net/rtc-uhr](https://calliope-net.github.io/rtc-uhr/) | Quarz-Uhr mit Knopfzelle
 [calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/) | 1 oder 2 OLED-Displays 16 Zeichen x 8 Zeilen + EEPROM
