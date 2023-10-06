@@ -93,8 +93,8 @@ Die Erweiterungen **bit** und **i2c** enthalten zusätzliche Blöcke und können
 
 Erweiterung für MakeCode|zusätzliche Blöcke
 ---|---
-[calliope-net/bit](https://calliope-net.github.io/bit/) | Blöcke zur Formatierung von Text und Zahlen (HEX), Logik (bitweise)
-[calliope-net/i2c](https://calliope-net.github.io/i2c/) | Verwendung von *Buffer* mit Blöcken, i2cWriteBuffer, i2cReadBuffer
+[calliope-net/bit](https://calliope-net.github.io/bit/) | Blöcke für HEX-Zahlen, bitweise Logik
+[calliope-net/i2c](https://calliope-net.github.io/i2c/) | Blöcke für *Buffer*, i2c Programmierung
 
 #### Erweiterungen für i2c Hardware-Module
 
@@ -112,7 +112,7 @@ Erweiterung für MakeCode|Blöcke zur Programmierung der Module am i2c-Bus (link
 [calliope-net/joystick](https://calliope-net.github.io/joystick/) | Joystick (Spielhebel)
 [calliope-net/motor](https://calliope-net.github.io/motor/) | Steuerung für 2 Motoren
 [calliope-net/dip-switch](https://calliope-net.github.io/dip-switch/) | 6 DIP-Schalter oder '5-Way_Switch'
-[calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/) | 4 Relais (1-polige Umschalter) + zusätzliche Spannung 5V
+[calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/) | 4 Relais (1-polige Umschalter) + externe Spannung 5V
 [calliope-net/wattmeter](https://calliope-net.github.io/wattmeter/) | Spannung und Strom digital messen
 
 
