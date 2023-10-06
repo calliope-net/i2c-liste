@@ -106,7 +106,7 @@ Erweiterung für MakeCode|Blöcke zur Programmierung der Module
 [calliope-net/lcd-16x2](https://calliope-net.github.io/lcd-16x2/) | LCD-Display 16 Zeichen x 2 Zeilen
 [calliope-net/lcd-20x4](https://calliope-net.github.io/lcd-20x4/) | LCD-Display 20 Zeichen x 4 Zeilen
 [calliope-net/eeprom](https://calliope-net.github.io/eeprom/) | EEPROM 64 KByte (65536 * 8 Bit)
-[calliope-net/openlog](https://calliope-net.github.io/openlog/) | Speicherkarte lesen/schreiben
+[calliope-net/openlog](https://calliope-net.github.io/openlog/) | Dateien auf Speicherkarte lesen/schreiben/löschen
 [calliope-net/keypad](https://calliope-net.github.io/keypad/) | Keypad Tasten: 0123456789*#
 [calliope-net/gpio](https://calliope-net.github.io/gpio/) | 8 digitale Ein- oder Ausgänge (Input/Output)
 [calliope-net/joystick](https://calliope-net.github.io/joystick/) | Joystick (Spielhebel)
