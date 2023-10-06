@@ -102,7 +102,7 @@ Erweiterung für MakeCode|Blöcke zur Programmierung der Module am i2c-Bus (link
 ---|---
 [calliope-net/rtc-uhr](https://calliope-net.github.io/rtc-uhr/) | Quarz-Uhr mit Knopfzelle
 [calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/) | EEPROM + OLED-Display 16 Zeichen x 8 Zeilen (1 oder 2 Displays)
-[calliope-net/oled-eeprom](https://calliope-net.github.io/oled-eeprom/) + [calliope-net/bit](https://calliope-net.github.io/bit/) | EEPROM (Zeichensatz für OLED-Display programmieren)
+[calliope-net/oled-eeprom](https://calliope-net.github.io/oled-eeprom/) | EEPROM (Zeichensatz für OLED-Display programmieren)
 [calliope-net/lcd-16x2](https://calliope-net.github.io/lcd-16x2/) | LCD-Display 16 Zeichen x 2 Zeilen
 [calliope-net/lcd-20x4](https://calliope-net.github.io/lcd-20x4/) | LCD-Display 20 Zeichen x 4 Zeilen
 [calliope-net/eeprom](https://calliope-net.github.io/eeprom/) | EEPROM 64 KByte (65536 * 8 Bit)
