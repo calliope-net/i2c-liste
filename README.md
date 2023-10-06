@@ -107,10 +107,10 @@ Erweiterung für MakeCode|Blöcke zur Programmierung der Module
 [calliope-net/lcd-20x4](https://calliope-net.github.io/lcd-20x4/) | LCD-Display 20 Zeichen x 4 Zeilen
 [calliope-net/eeprom](https://calliope-net.github.io/eeprom/) | EEPROM 64 KByte (65536 * 8 Bit)
 [calliope-net/openlog](https://calliope-net.github.io/openlog/) | Dateien auf Speicherkarte lesen/schreiben/löschen
-[calliope-net/keypad](https://calliope-net.github.io/keypad/) | Keypad Tasten: 0123456789*#
+[calliope-net/keypad](https://calliope-net.github.io/keypad/) | Keypad 12 Tasten: 0123456789*#
 [calliope-net/gpio](https://calliope-net.github.io/gpio/) | 8 digitale Ein- oder Ausgänge (Input/Output)
 [calliope-net/joystick](https://calliope-net.github.io/joystick/) | Joystick (Spielhebel)
-[calliope-net/motor](https://calliope-net.github.io/motor/) | Steuerung für 2 Motoren
+[calliope-net/motor](https://calliope-net.github.io/motor/) | Steuerung für 2 Motoren 9V
 [calliope-net/dip-switch](https://calliope-net.github.io/dip-switch/) | 6 DIP-Schalter oder '5-Way_Switch'
 [calliope-net/spdt-relay](https://calliope-net.github.io/spdt-relay/) | 4 Relais (1-polige Umschalter) + externe Spannung 5V
 [calliope-net/wattmeter](https://calliope-net.github.io/wattmeter/) | Spannung und Strom digital messen
