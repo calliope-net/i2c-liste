@@ -89,7 +89,7 @@ Um dieses Repository in MakeCode zu importieren.
 
 ### Erweiterungen
 
-Die Erweiterungen **bit** und **i2c** enthalten zusätzliche Blöcke und können ohne i2c-Modul auch im Simulator benutzt und auf Calliope geladen werden.
+Die Erweiterungen **bit** und **i2c** können ohne i2c-Modul auch im Simulator benutzt und auf Calliope geladen werden.
 
 Erweiterung für MakeCode|zusätzliche Blöcke
 ---|---
