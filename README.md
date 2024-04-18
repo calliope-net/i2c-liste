@@ -43,8 +43,9 @@ Produkt Dokumentation|Funktion
 Produkt Dokumentation|Funktion
 ---|---
 [Grove - High Precision RTC (Real Time Clock)](https://wiki.seeedstudio.com/Grove_High_Precision_RTC/) | Quarz-Uhr mit Knopfzelle
-[Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) | OLED-Display 16 Zeichen x 8 Zeilen
-[Grove - OLED Display 0.96 inch](https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/) | OLED-Display 16 Zeichen x 8 Zeilen
+[Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) | OLED-Display 128x64 Pixel 16x8 Zeichen
+[Grove - OLED Display 0.96 inch](https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/) | OLED-Display 128x64 Pixel (16x8)
+[Grove - OLED Display 1.12 (SH1107) V3.0 - SPI/IIC -3.3V/5V](https://wiki.seeedstudio.com/Grove-OLED-Display-1.12-SH1107_V3.0/) | OLED-Display 128x128 Pixel (16x16)
 [Grove - 16x2 LCD](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/) | LCD-Display 16 Zeichen x 2 Zeilen
 [Grove - 6-Position DIP Switch](https://wiki.seeedstudio.com/Grove-6-Position_DIP_Switch/) | 6 DIP-Schalter
 [Grove - 5-Way Switch](https://wiki.seeedstudio.com/Grove-5-Way_Switch/) | Taster mit 4 Richtungen + drücken
