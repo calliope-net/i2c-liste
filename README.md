@@ -43,8 +43,8 @@ Produkt Dokumentation|Funktion
 Produkt Dokumentation|Funktion
 ---|---
 [Grove - High Precision RTC (Real Time Clock)](https://wiki.seeedstudio.com/Grove_High_Precision_RTC/) | Quarz-Uhr mit Knopfzelle
-[Grove - OLED Display 1.12 (SH1107) V3.0 - SPI/IIC -3.3V/5V](https://wiki.seeedstudio.com/Grove-OLED-Display-1.12-SH1107_V3.0/) | OLED-Display 128x128 Pixel (16x16)
-[Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) | OLED-Display 128x64 Pixel 16x8 Zeichen
+[Grove - OLED Display 1.12 (SH1107) V3.0](https://wiki.seeedstudio.com/Grove-OLED-Display-1.12-SH1107_V3.0/) | OLED-Display 128x128 Pixel (16x16)
+[Grove - OLED Yellow&Blue Display 0.96(SSD1315)](https://wiki.seeedstudio.com/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0/) | OLED-Display 128x64 Pixel (16x8)
 [Grove - OLED Display 0.96 inch](https://wiki.seeedstudio.com/Grove-OLED_Display_0.96inch/) | OLED-Display 128x64 Pixel (16x8)
 [Grove - 16x2 LCD](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/) | LCD-Display 16 Zeichen x 2 Zeilen
 [Grove - 6-Position DIP Switch](https://wiki.seeedstudio.com/Grove-6-Position_DIP_Switch/) | 6 DIP-Schalter
@@ -102,7 +102,7 @@ Erweiterung für MakeCode|zusätzliche Blöcke
 Erweiterung für MakeCode|Blöcke zur Programmierung der i2c-Module
 ---|---
 [calliope-net/rtc-uhr](https://calliope-net.github.io/rtc-uhr/) | Quarz-Uhr mit Knopfzelle
-[calliope-net/matrix](https://calliope-net.github.io/matrix/) | bis zu 128x128 Pixel, 2 OLED Displays, Geometrie, Analoguhr
+[calliope-net/matrix](https://calliope-net.github.io/matrix/) | bis zu 128x128 Pixel, 2 OLED Displays, Geometrie, Text
 [calliope-net/oled-16x8](https://calliope-net.github.io/oled-16x8/) | 1 oder 2 OLED-Displays 16 Zeichen x 8 Zeilen + EEPROM
 [calliope-net/oled-eeprom](https://calliope-net.github.io/oled-eeprom/) | EEPROM (Zeichensatz für OLED-Display programmieren)
 [calliope-net/lcd-16x2](https://calliope-net.github.io/lcd-16x2/) | LCD-Display 16 Zeichen x 2 Zeilen
